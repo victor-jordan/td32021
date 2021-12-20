@@ -1,3 +1,1 @@
-import getApp
-
-app = getApp()
+from main import app
